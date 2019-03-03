@@ -1,10 +1,17 @@
 # Python-Youtube-Video-Downloader
 This GUI script will download youtube video for you.
 
-You must open the yt.py file and edit the 'destination' variable to your
-expected location path.
+# Step-1:
+Enter or paste video link.
 
-After that, you'll be able to download videos from youtube.
+# Step-2:
+Choose your location path, though it will not be visible after selection.
+Do not worry, it will work.
+
+# Step-3 final:
+Click the download button. It will start downloading your video.
+
+Once your video is downloaded, you will se a warning.
 
 
 
