@@ -1,3 +1,9 @@
+'''
+Author: Tareq Monwer
+Under Dev: Active
+'''
+
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
